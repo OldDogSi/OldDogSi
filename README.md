@@ -1,16 +1,10 @@
-# Hi there, I'm Cristian Camilo 👋
+# Hi there, I'm Cristian 👋
 
 <div align="center">
 
 ### 🚀 Full-Stack Developer & Software Craftsman
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+modern+%26+scalable+solutions;Passionate+about+clean+code;Continuous+learner+%26+problem+solver)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="mailto:cristiancamiloquintero09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cristiancamiloquintero09%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 </div>
 
@@ -52,14 +46,14 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Old-dog123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Old-dog123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OldDogSi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OldDogSi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Old-dog123&theme=tokyonight&hide_border=true" alt="Streak Stats" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OldDogSi&theme=tokyonight&hide_border=true" alt="Streak Stats" width="97%" />
 </div>
 
 ---
